@@ -1,4 +1,4 @@
 # Git-Demo
 This is my first Git repository
-/n
+<br/>
 Author - Nikhil Jaiswal
