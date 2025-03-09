@@ -1,4 +1,4 @@
 # Git-Demo
 This is my first Git repository
 <br/>
-Author - Nikhil Jaiswal(trail)
+Author - Nikhil Jaiswal
